@@ -1,47 +1,52 @@
-# 9th-template
-9기 아카데미 프로젝트를 위한 템플릿입니다.
+# CoDE: Concept of Data Engineering
 
-## 프로젝트 소개
-- 내용
+<br>
 
-## 팀 멤버
-|  | | | |
-|---|------|-------|---------|
-|   <img src = "https://avatars1.githubusercontent.com/u/4317641?s=460&u=8d90f1833f528e5a62e26b7f6af5c9868d2820af&v=4" width="128px;"/> <br/> [김찬란](https://github.com/seriousran) (빌더) <br/> NVIDIA <br/> 1기~ <br/>  <br/> |  <img src = "https://private-user-images.githubusercontent.com/86551201/355474290-c9b55d7f-e148-4632-8e30-8c0277197296.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjQyNDc0NjAsIm5iZiI6MTcyNDI0NzE2MCwicGF0aCI6Ii84NjU1MTIwMS8zNTU0NzQyOTAtYzliNTVkN2YtZTE0OC00NjMyLThlMzAtOGMwMjc3MTk3Mjk2LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MjElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODIxVDEzMzI0MFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWY0Y2I3ZThmMWY2YzZjYTRiZjQxZmM1ODU5ODUxOTVmZjcxODAyMjQ4ZmFlMTQ2ZjRhNzYzZjY1Y2RkZjhhOTkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.taMJhXyE8iSxU_87ZvzpV8jHsxS2AT3nwlPQL0V1DyA" width="128px;"/> <br/> [박원기](https://github.com/kalelpark) (빌더) <br/> 아주대학교 <br/> 5기~ <br/> NeRF with Real-World <br/> |   <img src = "https://private-user-images.githubusercontent.com/115800583/356815407-49fab11d-979a-4dac-a4fb-02945fbbf58e.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjQyNDc0NjAsIm5iZiI6MTcyNDI0NzE2MCwicGF0aCI6Ii8xMTU4MDA1ODMvMzU2ODE1NDA3LTQ5ZmFiMTFkLTk3OWEtNGRhYy1hNGZiLTAyOTQ1ZmJiZjU4ZS5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwODIxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDgyMVQxMzMyNDBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mZWY3MzA3YWQzODE1ZGFjNzNhZTVmMWU0NmI2NjYyN2U3YTQwYzdkMzVlYjhmY2I2OTA2ZDhkZDdlYmFkZjM4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.FoMt-YoUtuSu_WVP9NmS6CxzZv9p4TeywEi8H5JS8jI" width="128px;"/> <br/> [박수형](https://github.com/Coding-Child) (빌더) <br/> 가톨릭대학교 <br/> 8기~ <br/> RAG is All You Need!! <br/>|   <img src = "https://private-user-images.githubusercontent.com/63176650/356855939-d3f3bbc2-83fa-4b15-9ed3-39949b2f57f7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjQyNDc0NjAsIm5iZiI6MTcyNDI0NzE2MCwicGF0aCI6Ii82MzE3NjY1MC8zNTY4NTU5MzktZDNmM2JiYzItODNmYS00YjE1LTllZDMtMzk5NDliMmY1N2Y3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MjElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODIxVDEzMzI0MFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQ0NGQ2NDU4NDQ1YTFlYzViNTdkMjhkYWFmNzc1ZjI4ZGUzMjM4ZjcwYjAzZDY5MjE4ZjcyOTVmYmFhYTI3YTYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.0tAslVMk1bpjCT62p29D2Cz_ZgrB0eIBxm9HKuKbg14" width="128px;"/> <br/> [심세원](https://github.com/thrcle) (빌더) <br/> Pulmuone <br/> 9기~ <br/> 내게 딱 맞는 건강디저트<br/>  추천시스템 구현하기 <br/> |
-|   <img src = "https://avatars.githubusercontent.com/u/60315070?s=400&u=778854dfa9e806ceb1bc3e8d6cf30634df316c15&v=4" width="128px;"/> <br/> [박상호](https://www.linkedin.com/in/sangho-park-4220aa22a/) (빌더) <br/> 성균관대학교<br/> 7기~ <br/> Bridging Causal Inference <br/> and Real-World Evidence: <br/> A Study of FDA <br/> and Other Regulatory Guidelines <br/> |  <img src = "https://private-user-images.githubusercontent.com/39010111/357014882-6a14a996-a5dd-44e4-952a-eb0c1ad46894.jpeg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjQyNDc0NjAsIm5iZiI6MTcyNDI0NzE2MCwicGF0aCI6Ii8zOTAxMDExMS8zNTcwMTQ4ODItNmExNGE5OTYtYTVkZC00NGU0LTk1MmEtZWIwYzFhZDQ2ODk0LmpwZWc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwODIxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDgyMVQxMzMyNDBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT00OTMwNjUzZDQ3NjdiOWM4NzdkYWVjNzJiMDMyMmY0ZWI3MzVkZmQ2ZGViMmQyYWRiNzY5ZDBiM2M1NTdiMmQyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.qphkSHHm6PPUCLro0ZuIA4LB6Jb-2WA06DkFgzeJ2WA" width="128px;"/> <br/> [장형기](https://github.com/changh95) (빌더) <br/> StradVision <br/> 9기~ <br/> 스페셜한 Spatial AI <br/>|   <img src = "https://private-user-images.githubusercontent.com/25517592/357254816-2ba87504-48a7-4551-aeff-befcb609aa1d.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjQyNDc0NjAsIm5iZiI6MTcyNDI0NzE2MCwicGF0aCI6Ii8yNTUxNzU5Mi8zNTcyNTQ4MTYtMmJhODc1MDQtNDhhNy00NTUxLWFlZmYtYmVmY2I2MDlhYTFkLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MjElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODIxVDEzMzI0MFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTg2OTE1YTM0NGFhODAyMjYzMWVmNjg5NTJlODFkZjZjZmUxYmI3Y2FhMDc0Njk4NDk1YTQ2MWQ2ZDI3NjcwYzEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.XXZOovOvl8vPJCMiCCrZiNqirf82Naqe1QF5kml-UXw" width="128px;"/> <br/> [이경찬](https://github.com/kyeongchan92) (빌더) <br/> 하나투어 <br/> 6기~ <br/> 미정 <br/>|   <img src = "https://camo.githubusercontent.com/b7e93e8ef861fd7f229780b8b84bc2fa97f4141378d2b7ffacc0a20e3fece0b4/68747470733a2f2f6d656469612e6c6963646e2e636f6d2f646d732f696d6167652f76322f43353630334151487971794d575964507853672f70726f66696c652d646973706c617970686f746f2d736872696e6b5f3830305f3830302f70726f66696c652d646973706c617970686f746f2d736872696e6b5f3830305f3830302f302f313539303136353936343831303f653d3137323937323830303026763d6265746126743d53674f5756746a5f6d7774595944636d3971586364793648673675534f4875475f4a7667395268754b374d" width="128px;"/> <br/> [박진호](https://www.linkedin.com/in/jinho-park-9010) (빌더) <br/> 현대자동차 <br/> 3기~ <br/> - <br/> |
+## 팀원
 
-## 프로젝트 목표
-1. 주요 추천 시스템 이론에 대한 구현 방식 이해(각 방식의 원리, 특징, 장단점 파악)
-2. 학습한 내용을 기반으로 실전 프로젝트에 적용: 추천시스템 구현 및 반영까지 
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/gxxdido"><img src="https://avatars.githubusercontent.com/u/166269628?v=4" width="100px;" alt="한수민"/><br /><sub><b>한수민</b></sub></a></td>
+    </tr>
+  </tbody>
+</table>
 
-## 프로젝트 내용
-**Part 0. OT 및 스터디 목표 안내 (1주)**
-  - 자기소개 
-  - 진행일정 및 프로젝트 목표 공유
+<br>
 
-**Part 1. OOO (4주) : 내용**
-  - 내용
-  - 내용
+## 스터디 목표
 
-**Part 2. 실전 적용 (8주)**
-  - 내용
-  - 내용
+- **Main Goal**
+    - **데이터 엔지니어링** 기초 다지기
+- **Sub Goals**
+    - 개인 기술 블로그를 통해 학습 내용을 정리하고 공유하기
+    - DataCamp의 Data Engineer Certification 취득하기
 
-## 활동 기간
-- 날짜: 9-12월
-- 시간: 매주 오후 9-10시 (변동가능)
-- 장소: 온라인 디스코드
+<br>
 
-## 스케쥴
+## 스터디 자료
+- DataCamp의 "[Associate Data Engineer in SQL](https://www.datacamp.com/tracks/associate-data-engineer-in-sql)" Track
+- DataCamp의 "[Data Engineer in Python](https://www.datacamp.com/tracks/data-engineer-in-python)" Track
+- 추가적으로 DataCamp의 다른 관련 강의들도 참고할 예정입니다.
 
-| 날짜 | 내용 | 발표자 | 
-| -------- | -------- | ---- |
-| 2024/09/ | OT       |      |
-| 2024/09/ |  Part 1. | 미정 | 
-| 2024/09/ |  Part 2. | 미정 | 
-| 2024/09/ |  Part 3. | 미정 | 
-| 2024/10/ |  Part 4. | 미정 | 
-| 2024/10/ |  Part 5. | 미정 | 
+<br>
 
-## 아카이브
-- 링크
+## 진행 상황
+
+💡 주차별 진행 계획은 팀원들과 협의하여 유연하게 조정될 수 있습니다.
+
+| 날짜 | 구분 | 주제 | 발표자 |
+| ----- | ---- | ----- | -------- | 
+| 2024.09.15 | 1-1 | OT (스터디 소개, 팀원 소개)<br>Understanding Data Engineering | 한수민 | 
+| (개별 학습) | 1-2<br>1-3<br>1-4<br>1-5 | Introduction to SQL<br>Intermediate SQL<br>Joining Data in SQL<br>(project) Analyzing Students' Mental Health | - | 
+| 2024.09.22 | 1-6<br>1-7 | Introduction to Relational Databases in SQL<br>Database Design |  | 
+| 2024.09.29 | 1-8<br>1-9 | Data Warehousing Concepts<br>Introduction to Snowflake |  | 
+| 2024.10.06 | 1-10<br>1-11 | Understanding Data Visualization<br>(project) Exploring London's Travel Network |  | 
+| 2024.10.13 | 2-1 | Understanding Cloud Computing |  | 
+| (개별 학습) | 2-2<br>2-3 | Introduction to Python for Developers<br>Intermediate Python for Developers | - | 
+| 2024.10.20 | 2-4<br>2-5 | Introduction to Importing Data in Python<br>Intermediate Importing Data in Python |  | 
+| 2024.10.27 | 2-6<br>2-7 | Cleaning Data in Python<br>(project) Cleaning Bank Marketing Campaign Data |  | 
+| 2024.11.03 | 2-8<br>2-9 | Writing Efficient Python Code<br>Streamlined Data Ingestion with pandas |  | 
+| 2024.11.10 | 2-10<br>2-11 | Introduction to Git<br>Software Engineering Principles in Python |  | 
+| 2024.11.17 | 2-12<br>2-13 | (project) Performing a Code Review<br>ETL and ELT in Python |  | 
+| 2024.11.24 | 2-14<br>2-15 | Introduction to Airflow in Python<br>(project) Building a Retail Data Pipeline|  | 
