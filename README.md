@@ -37,12 +37,12 @@
 
 | 날짜 | 구분 | 주제 | 발표자 |
 | ----- | ---- | ----- | -------- | 
-| 2024.09.15 | 1-1 | OT (스터디 소개, 팀원 소개)<br>Understanding Data Engineering | 한수민 | 
+| 2024.09.15 |  | OT (스터디 소개, 팀원 소개) | 한수민 |
+| 2024.09.22 | 1-1<br>1-6 | Understanding Data Engineering<br>Introduction to Relational Databases in SQL | 한수민 |
 | (개별 학습) | 1-2<br>1-3<br>1-4<br>1-5 | Introduction to SQL<br>Intermediate SQL<br>Joining Data in SQL<br>(project) Analyzing Students' Mental Health | - | 
-| 2024.09.22 | 1-6<br>1-7 | Introduction to Relational Databases in SQL<br>Database Design |  | 
-| 2024.09.29 | 1-8<br>1-9 | Data Warehousing Concepts<br>Introduction to Snowflake |  | 
-| 2024.10.06 | 1-10<br>1-11 | Understanding Data Visualization<br>(project) Exploring London's Travel Network |  | 
-| 2024.10.13 | 2-1 | Understanding Cloud Computing |  | 
+| 2024.09.29 | 1-7<br>1-8 | Database Design<br>Data Warehousing Concepts |  | 
+| 2024.10.06 | 1-9<br>1-10 | Introduction to Snowflake<br>Understanding Data Visualization |  | 
+| 2024.10.13 | 1-11<br>2-1 | (project) Exploring London's Travel Network<br>Understanding Cloud Computing |  | 
 | (개별 학습) | 2-2<br>2-3 | Introduction to Python for Developers<br>Intermediate Python for Developers | - | 
 | 2024.10.20 | 2-4<br>2-5 | Introduction to Importing Data in Python<br>Intermediate Importing Data in Python |  | 
 | 2024.10.27 | 2-6<br>2-7 | Cleaning Data in Python<br>(project) Cleaning Bank Marketing Campaign Data |  | 
