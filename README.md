@@ -38,7 +38,7 @@
 | 날짜 | 구분 | 주제 | 발표자 |
 | ----- | ---- | ----- | -------- | 
 | 2024.09.15 |  | OT (스터디 소개, 팀원 소개) | 한수민 |
-| 2024.09.22 | 1-1<br>1-6 | Understanding Data Engineering<br>Introduction to Relational Databases in SQL | 한수민 |
+| 2024.09.22 | 1-1<br>1-6 | [Understanding Data Engineering](https://gxxdido.notion.site/1092a592d9ba80efb43febd750aa03dc)<br>[Introduction to Relational Databases in SQL](https://gxxdido.notion.site/007b53e9af104d8682176501ab267381) | 한수민 |
 | (개별 학습) | 1-2<br>1-3<br>1-4<br>1-5 | Introduction to SQL<br>Intermediate SQL<br>Joining Data in SQL<br>(project) Analyzing Students' Mental Health | - | 
 | 2024.09.29 | 1-7<br>1-8 | Database Design<br>Data Warehousing Concepts |  | 
 | 2024.10.06 | 1-9<br>1-10 | Introduction to Snowflake<br>Understanding Data Visualization |  | 
@@ -50,3 +50,9 @@
 | 2024.11.10 | 2-10<br>2-11 | Introduction to Git<br>Software Engineering Principles in Python |  | 
 | 2024.11.17 | 2-12<br>2-13 | (project) Performing a Code Review<br>ETL and ELT in Python |  | 
 | 2024.11.24 | 2-14<br>2-15 | Introduction to Airflow in Python<br>(project) Building a Retail Data Pipeline|  | 
+
+<br>
+
+<a href="https://www.datacamp.com/donates">
+    <img src="https://drive.google.com/uc?export=view&id=1owpmh47tX5ldtqU08LUkCIboeBlXfUbc" alt="Datacamp Donation">
+</a>
