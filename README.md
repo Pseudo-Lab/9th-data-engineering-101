@@ -7,11 +7,18 @@
 <table>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/gxxdido"><img src="https://avatars.githubusercontent.com/u/166269628?v=4" width="100px;" alt="한수민"/><br /><sub><b>한수민</b></sub></a></td>
-    </tr>
-
-    <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/heejin8273"><img src="https://avatars.githubusercontent.com/u/81977536?v=4" width="100px;" alt="고희진"/><br /><sub><b>고희진</b></sub></a></td>
+      <td align="center" valign="top" width="14.28%">
+        <a href="https://github.com/gxxdido">
+          <img src="https://avatars.githubusercontent.com/u/166269628?v=4" width="100px;" alt="한수민"/><br />
+          <sub><b>한수민</b></sub>
+        </a>
+      </td>
+      <td align="center" valign="top" width="14.28%">
+        <a href="https://github.com/heejin8273">
+          <img src="https://avatars.githubusercontent.com/u/81977536?v=4" width="100px;" alt="고희진"/><br />
+          <sub><b>고희진</b></sub>
+        </a>
+      </td>
     </tr>
   </tbody>
 </table>
