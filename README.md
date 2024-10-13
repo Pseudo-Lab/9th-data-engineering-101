@@ -7,56 +7,48 @@
 <table>
   <tbody>
     <tr>
-      
       <td align="center" valign="top" width="14.28%">
         <a href="https://github.com/gxxdido">
           <img src="https://avatars.githubusercontent.com/u/166269628?v=4" width="100px;" alt="한수민"/><br />
           <sub><b>한수민</b></sub>
         </a>
       </td>
-      
       <td align="center" valign="top" width="14.28%">
         <a href="https://github.com/heejin8273">
           <img src="https://avatars.githubusercontent.com/u/81977536?v=4" width="100px;" alt="고희진"/><br />
           <sub><b>고희진</b></sub>
         </a>
       </td>
-      
       <td align="center" valign="top" width="14.28%">
         <a href="https://github.com/jojaegu2">
           <img src="https://avatars.githubusercontent.com/u/65579171?v=4" width="100px;" alt="조재은"/><br />
           <sub><b>조재은</b></sub>
         </a>
       </td>
-
       <td align="center" valign="top" width="14.28%">
         <a href="https://github.com/tomyrrh">
           <img src="https://avatars.githubusercontent.com/u/155514714?v=4" width="100px;" alt="유시은"/><br />
           <sub><b>유시은</b></sub>
         </a>
       </td>
-
       <td align="center" valign="top" width="14.28%">
         <a href="https://github.com/mindykwon">
           <img src="https://avatars.githubusercontent.com/u/20348346?v=4" width="100px;" alt="권민지"/><br />
           <sub><b>권민지</b></sub>
         </a>
       </td>
-
       <td align="center" valign="top" width="14.28%">
         <a href="https://github.com/mangodm-web">
           <img src="https://avatars.githubusercontent.com/u/123475341?v=4" width="100px;" alt="허다미"/><br />
           <sub><b>허다미</b></sub>
         </a>
       </td>
-
       <td align="center" valign="top" width="14.28%">
         <a href="https://github.com/itlatte">
           <img src="https://avatars.githubusercontent.com/u/26318863?v=4" width="100px;" alt="박기연"/><br />
           <sub><b>박기연</b></sub>
         </a>
       </td>
-      
     </tr>
   </tbody>
 </table>
