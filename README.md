@@ -100,7 +100,7 @@
 | 2024.10.20 | [Introduction to Importing Data in Python](https://s-yujeong.notion.site/Introduction-to-importing-data-in-python-11e1b4bcf8cb80d98e89c68b2144b513)<br>[Intermediate Importing Data in Python](https://juone.notion.site/2-5-Intermediate-Importing-Data-in-Python-122450fd1ea6808d9259d99ae04d3f82) | 서유정<br>홍주원 | 
 | 2024.10.27 | (휴식) |
 | 2024.11.03 | Cleaning Data in Python<br>Writing Efficient Python Code<br>Streamlined Data Ingestion with pandas | 조재은<br>고희진<br>한수민 | 
-| 2024.11.10 | Introduction to Git<br>Software Engineering Principles in Python<ETL and ELT in Python> | 서유정<br>허다미<br>박기연 | 
+| 2024.11.10 | Introduction to Git<br>Software Engineering Principles in Python<br>ETL and ELT in Python | 서유정<br>허다미<br>박기연 | 
 | 2024.11.17 | Introduction to Apache Airflow in Python<br>Introduction to Apache Kafka<br>Introduction to Docker | 권민진<br>홍주원<br>유시은 | 
 
 <br><br>
