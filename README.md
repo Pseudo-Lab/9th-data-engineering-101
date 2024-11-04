@@ -99,9 +99,9 @@
 | 2024.10.13 | [(project) Exploring London's Travel Network](https://mirage-ceres-274.notion.site/Exploring-London-s-Travel-Network-11a9c206350d80c094c5f62f2292d2bc)<br>[Understanding Cloud Computing](https://kiyeon2u.tistory.com/4) | 허다미<br>박기연 | 
 | 2024.10.20 | [Introduction to Importing Data in Python](https://s-yujeong.notion.site/Introduction-to-importing-data-in-python-11e1b4bcf8cb80d98e89c68b2144b513)<br>[Intermediate Importing Data in Python](https://juone.notion.site/2-5-Intermediate-Importing-Data-in-Python-122450fd1ea6808d9259d99ae04d3f82) | 서유정<br>홍주원 | 
 | 2024.10.27 | (휴식) |
-| 2024.11.03 | Cleaning Data in Python<br>Writing Efficient Python Code<br>Streamlined Data Ingestion with pandas | 조재은<br>고희진<br>한수민 | 
-| 2024.11.10 | Introduction to Git<br>Software Engineering Principles in Python<br>ETL and ELT in Python | 서유정<br>허다미<br>박기연 | 
-| 2024.11.17 | Introduction to Apache Airflow in Python<br>Introduction to Apache Kafka<br>Introduction to Docker | 권민진<br>홍주원<br>유시은 | 
+| 2024.11.03 | [Cleaning Data in Python](https://stellar-cathedral-a02.notion.site/Cleaning-Data-in-Python-12fe2d0e19f780b98c98f50e0f7befbc)<br>[Writing Efficient Python Code](https://heejingo.tistory.com/87)<br>[Streamlined Data Ingestion with pandas](https://gxxdido.notion.site/DataCamp-Streamlined-Data-Ingestion-with-pandas-88e2cf1fc5b94c61986a87bce1a235cc) | 조재은<br>고희진<br>한수민 | 
+| 2024.11.10 | Software Engineering Principles in Python<br>ETL and ELT in Python<br>Introduction to Apache Kafka | 허다미<br>한수민<br>홍주원 | 
+| 2024.11.17 | Introduction to Git<br>Introduction to Apache Airflow in Python<br>Introduction to Docker | 서유정<br>권민지<br>유시은 | 
 
 <br><br>
 
