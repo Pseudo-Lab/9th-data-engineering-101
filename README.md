@@ -101,7 +101,7 @@
 | 2024.10.27 | (휴식) |
 | 2024.11.03 | [Cleaning Data in Python](https://stellar-cathedral-a02.notion.site/Cleaning-Data-in-Python-12fe2d0e19f780b98c98f50e0f7befbc)<br>[Writing Efficient Python Code](https://heejingo.tistory.com/87)<br>[Streamlined Data Ingestion with pandas](https://gxxdido.notion.site/DataCamp-Streamlined-Data-Ingestion-with-pandas-88e2cf1fc5b94c61986a87bce1a235cc) | 조재은<br>고희진<br>한수민 | 
 | 2024.11.10 | Software Engineering Principles in Python<br>ETL and ELT in Python<br>Introduction to Apache Kafka | 허다미<br>한수민<br>홍주원 | 
-| 2024.11.17 | Introduction to Git<br>Introduction to Apache Airflow in Python<br>Introduction to Docker | 서유정<br>권민지<br>유시은 | 
+| 2024.11.17 | Introduction to Git<br>Introduction to Apache Airflow in Python<br>Intermediate Docker | 서유정<br>권민지<br>유시은 | 
 
 <br><br>
 
