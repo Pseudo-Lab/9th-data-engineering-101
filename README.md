@@ -100,7 +100,7 @@
 | 2024.10.20 | [Introduction to Importing Data in Python](https://s-yujeong.notion.site/Introduction-to-importing-data-in-python-11e1b4bcf8cb80d98e89c68b2144b513)<br>[Intermediate Importing Data in Python](https://juone.notion.site/2-5-Intermediate-Importing-Data-in-Python-122450fd1ea6808d9259d99ae04d3f82) | 서유정<br>홍주원 | 
 | 2024.10.27 | (휴식) |
 | 2024.11.03 | [Cleaning Data in Python](https://stellar-cathedral-a02.notion.site/Cleaning-Data-in-Python-12fe2d0e19f780b98c98f50e0f7befbc)<br>[Writing Efficient Python Code](https://heejingo.tistory.com/87)<br>[Streamlined Data Ingestion with pandas](https://gxxdido.notion.site/DataCamp-Streamlined-Data-Ingestion-with-pandas-88e2cf1fc5b94c61986a87bce1a235cc) | 조재은<br>고희진<br>한수민 | 
-| 2024.11.10 | Software Engineering Principles in Python<br>ETL and ELT in Python<br>Introduction to Apache Kafka | 허다미<br>한수민<br>홍주원 | 
+| 2024.11.10 | [Software Engineering Principles in Python](https://mirage-ceres-274.notion.site/Software-Engineering-Principles-in-Python-1379c206350d80e38ce2d330a4fb3f4e)<br>[ETL and ELT in Python](https://www.notion.so/gxxdido/ETL-ELT-ETLT-1392a592d9ba80b2ad23eea6231d4444)<br>[Introduction to Apache Kafka](https://juone.notion.site/Introduction-to-Apache-Kafka-136450fd1ea6800f829bdad97bcddd23) | 허다미<br>한수민<br>홍주원 | 
 | 2024.11.17 | Introduction to Git<br>Introduction to Apache Airflow in Python<br>Intermediate Docker | 서유정<br>권민지<br>유시은 | 
 
 <br><br>
